@@ -4,3 +4,6 @@ This is a small jQuery plugin that you can use to turn a text input into a searc
 Call it on a select element in jQuery with <code>.filterByText(<i>text input selector</i>)</code> and search away!
 
 TO DO: Perhaps include a minimum input requirement as well. This would also help to speed up search results filtering.
+
+Credit:
+Lessan Vaezi [http://www.lessanvaezi.com/filter-select-list-options/](http://www.lessanvaezi.com/filter-select-list-options/)
